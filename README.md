@@ -1,16 +1,22 @@
-### Hi there 👋
+# <p align="center"> Hi I'm Vinayka Mayura 👋<p/>
+### <p align="center"> Lead Consultant at Thoughtworks, India <p/>
+<br/>
 
-<!--
-**VinayakaMayura/vinayakamayura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I help teams in building and scaling quality products**.
+  
+- 🌱 I’m learning **python, java Distributed systems architecture, Machine Learning and LLM**.
 
-Here are some ideas to get you started:
+- 💬 I would love to talk about **TDD, Testing, Quality, CI/CD, Agile methodologies, coding best practices**
+  
+- 📫 Reach me at vinayakamayura.gg@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙋🏼‍♂️[Linkedin](https://www.linkedin.com/in/vinayakamayura/)
+
+- My Talks:
+  - [Search Relevancy Testing: QA in Machine Learning Models by Vinayaka Mayura #SeConf2020](https://www.youtube.com/watch?v=JNoaRLYhCnM)
+
+  - [Metamorphic Testing for Machine Learning Models with Search Relevancy Example](https://confengine.com/conferences/odsc-india-2020/proposal/14474/metamorphic-testing-for-machine-learning-models-with-search-relevancy-example)
+
+  - [WebDriver Lamda - Next Gen Scalable Test](https://www.slideshare.net/VodqaBLR/webdriver-lamda-next-gen-scalable-test)
+
+- ⚡ Fun fact about me I eat bugs (code bugs 🐛) for breakfast, lunch and dinner 😜
