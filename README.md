@@ -20,3 +20,5 @@
   - [WebDriver Lamda - Next Gen Scalable Test](https://www.slideshare.net/VodqaBLR/webdriver-lamda-next-gen-scalable-test)
 
 - ⚡ Fun fact about me I eat bugs (code bugs 🐛) for breakfast, lunch and dinner 😜
+
+- Happy to connect if you have any open source challenges to resolve or need help.
